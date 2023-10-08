@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BEGithubRepo
-- 👀 I’m interested in ML/AI
-- 🌱 I’m currently learning AI fundementals
-- 💞️ I’m looking to collaborate on AI workshops
-- 📫 How to reach me b.erdenn01@gmail.com
+- 👋 Hi, I’m Burak Erden
+- 👀 I’m interested in ML/AI, Neural Networks, Big Data
+- 🌱 I’m currently learning Convolutional Neural Network and Neural Networks from Scratch
+- 💞️ I’m looking to collaborate on AI workshops, meetings or development chances etc. 
+- 📫 How to reach me 230541163@firat.edu.tr or b.erdenn01@gmail.com
 
 <!---
 BEGithubRepo/BEGithubRepo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
